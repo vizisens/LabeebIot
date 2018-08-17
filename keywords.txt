@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For LabeebIoT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LabeebIoT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+labeeb		KEYWORD2	
+connect 	KEYWORD2
+disconnect 	KEYWORD2
+publish 	KEYWORD2
+publish_P 	KEYWORD2
+subscribe 	KEYWORD2
+unsubscribe 	KEYWORD2
+loop 	KEYWORD2
+connected 	KEYWORD2
+setServer	KEYWORD2
+setCallback	KEYWORD2
+setClient	KEYWORD2
+setStream	KEYWORD2
+connectLabeeb	KEYWORD2	
+publishLabeeb	KEYWORD2
+publishLabeebValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
